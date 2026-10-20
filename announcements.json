@@ -1,12 +1,4 @@
 {
   "format": 1,
-  "announcements": [
-    {
-      "id": "2026-10-20-1li7es-jn0",
-      "title": "123",
-      "text": "test",
-      "date": "2026-10-20",
-      "category": "test"
-    }
-  ]
+  "announcements": []
 }
